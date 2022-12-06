@@ -5,20 +5,20 @@ This repository contains a template folder structure for a research project.
 ```
 .
 ├── README.md
-├── analysis
-│   └── src
+├── analysis            <- all things data analysis
+│   └── src             <- functions and other source files
 ├── comm
-│   ├── internal-comm
-│   └── journal-comm
+│   ├── internal-comm   <- internal communication such as meeting notes
+│   └── journal-comm    <- communication with the journal, e.g. peer review
 ├── data
-│   ├── data_clean
-│   └── data_raw
+│   ├── data_clean      <- clean version of the data
+│   └── data_raw        <- raw data (don't touch)
 ├── dissemination
 │   ├── manuscripts
 │   ├── posters
 │   └── presentations
-├── documentation
-└── misc
+├── documentation       <- documentation, e.g. data management plan
+└── misc                <- miscellaneous files that don't fit elsewhere
 ```
 
 Please note that this is not the only possible way to structure a research project, but it might help you finding a good folder structure for yourself.
