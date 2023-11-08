@@ -8,8 +8,8 @@ This repository contains a template folder structure for a research project.
 ├── analysis            <- all things data analysis
 │   └── src             <- functions and other source files
 ├── comm
-│   ├── internal-comm   <- internal communication such as meeting notes
-│   └── journal-comm    <- communication with the journal, e.g. peer review
+│   ├── internal_comm   <- internal communication such as meeting notes
+│   └── journal_comm    <- communication with the journal, e.g. peer review
 ├── data
 │   ├── data_clean      <- clean version of the data
 │   └── data_raw        <- raw data (don't touch)
