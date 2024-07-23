@@ -44,3 +44,6 @@ Add your files to the folders.
 
 
 :tada: That's all! Happy researching! :tada:
+
+## Further reading
+Interested in more like this? Check out my newsletter post on [FAIR and reproducible projects](https://heidiseibold.ck.page/posts/setting-up-a-fair-and-reproducible-project).
